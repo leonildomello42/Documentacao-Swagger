@@ -1,0 +1,25 @@
+#Swagger
+
+-- swagger.io
+-- mockiapi.io
+
+--OpenAPI Specification:
+ -- https://www.openapis.org/
+ -- https://spec.openapis.org/oas/v3.1.0
+ -- https://swagger.io/specification/#info-object
+ -- https://swagger.io/specification/#external-documentation-object
+ -- https://swagger.io/specification/#data-types
+
+-- Autenticação por token: https://www.youtube.com/watch?v=MZetkcs2xIo
+-- Autenticação com JWT: https://www.youtube.com/watch?v=B-7e-ZpIWAs
+ 
+-- https://mockapi.io/projects/6096015d116f300174b29bb
+-- - url: https://6096015d116f3f00174b29ba.mockapi.io/
+
+-- docker pull swaggerapi/swagger-editor
+-- docker run -d -p 80:8080 -v $(pwd):/tmp -e SWAGGER_FILE=/tmp/openapi.json swaggerapi/swagger-editor
+
+-- docker pull swaggerapi/swagger-ui
+-- docker run -p 80:8080 -e SWAGGER_JSON=/tmp/openapi.json -v $(pwd):/tmp swaggerapi/swagger-ui
+
+

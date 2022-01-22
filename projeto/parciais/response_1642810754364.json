@@ -1,0 +1,404 @@
+[
+  {
+    "descricao": "especialidade string",
+    "id": "26"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "28"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "29"
+  },
+  {
+    "descricao": "Especialidade nova",
+    "id": "30"
+  },
+  {
+    "descricao": "Oi to hoje",
+    "id": "31"
+  },
+  {
+    "descricao": "string",
+    "id": "34"
+  },
+  {
+    "descricao": "Ortopedia2",
+    "id": "35"
+  },
+  {
+    "descricao": "Especialidade Teste",
+    "id": "36"
+  },
+  {
+    "descricao": "string",
+    "id": "41"
+  },
+  {
+    "descricao": "nova especialidade",
+    "id": "42"
+  },
+  {
+    "descricao": "otorrinolaringologia",
+    "id": "43"
+  },
+  {
+    "descricao": "Ginecologia",
+    "id": "44"
+  },
+  {
+    "descricao": "angiologia",
+    "id": "45"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "46"
+  },
+  {
+    "descricao": "string",
+    "id": "47"
+  },
+  {
+    "descricao": "string",
+    "id": "48"
+  },
+  {
+    "descricao": "bla bla",
+    "id": "50"
+  },
+  {
+    "descricao": "nova especialidade",
+    "id": "53"
+  },
+  {
+    "descricao": "string",
+    "id": "54"
+  },
+  {
+    "descricao": "Terapia Complementar",
+    "id": "55"
+  },
+  {
+    "descricao": "Terapia",
+    "id": "56"
+  },
+  {
+    "descricao": "string",
+    "id": "57"
+  },
+  {
+    "descricao": "Macarena",
+    "id": "59"
+  },
+  {
+    "descricao": "Nova Especialidade 60",
+    "id": "60"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "61"
+  },
+  {
+    "descricao": "Especialidade Pedro Pellizzaro",
+    "id": "62"
+  },
+  {
+    "descricao": "string",
+    "id": "63"
+  },
+  {
+    "descricao": "string",
+    "id": "64"
+  },
+  {
+    "descricao": "string",
+    "id": "65"
+  },
+  {
+    "descricao": "teste",
+    "id": "66"
+  },
+  {
+    "descricao": "teste",
+    "id": "67"
+  },
+  {
+    "descricao": "angelo",
+    "id": "68"
+  },
+  {
+    "descricao": "Super nova especialidade",
+    "id": "69"
+  },
+  {
+    "descricao": "descricao 70",
+    "id": "70"
+  },
+  {
+    "descricao": "descricao 71",
+    "id": "71"
+  },
+  {
+    "descricao": "string",
+    "id": "72"
+  },
+  {
+    "descricao": "descricao 73",
+    "id": "73",
+    "description": "uma nova especialidade"
+  },
+  {
+    "descricao": "Mais uma de teste",
+    "id": "74"
+  },
+  {
+    "descricao": "nova especialidade",
+    "id": "75"
+  },
+  {
+    "descricao": "string",
+    "id": "76"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "77"
+  },
+  {
+    "descricao": "string",
+    "id": "78"
+  },
+  {
+    "descricao": "dhdhduhduhduudhudhuhd",
+    "id": "79"
+  },
+  {
+    "descricao": "Oftalmologia",
+    "id": "80"
+  },
+  {
+    "descricao": "string",
+    "id": "81"
+  },
+  {
+    "descricao": "descricao 82",
+    "id": "82",
+    "postTest": "string"
+  },
+  {
+    "descricao": "nova especialidade teste",
+    "id": "83"
+  },
+  {
+    "descricao": "teste carlos",
+    "id": "84"
+  },
+  {
+    "descricao": "nova especialidade wel",
+    "id": "85"
+  },
+  {
+    "descricao": "acido salicilico",
+    "id": "86"
+  },
+  {
+    "descricao": "string",
+    "id": "87"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "88"
+  },
+  {
+    "descricao": "string",
+    "id": "89"
+  },
+  {
+    "descricao": "string",
+    "id": "90"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "91"
+  },
+  {
+    "descricao": "Nova especialidade ERIKA ",
+    "id": "92"
+  },
+  {
+    "descricao": "12345 teste",
+    "id": "93"
+  },
+  {
+    "descricao": "string atualizada",
+    "id": "94"
+  },
+  {
+    "descricao": "string",
+    "id": "95"
+  },
+  {
+    "descricao": "string",
+    "id": "96"
+  },
+  {
+    "descricao": "string",
+    "id": "97"
+  },
+  {
+    "descricao": "string",
+    "id": "98"
+  },
+  {
+    "descricao": "test",
+    "id": "99"
+  },
+  {
+    "descricao": "string",
+    "id": "101"
+  },
+  {
+    "descricao": "Dentista",
+    "id": "102"
+  },
+  {
+    "descricao": "Lucita",
+    "id": "103"
+  },
+  {
+    "descricao": "string",
+    "id": "104"
+  },
+  {
+    "descricao": "TROLL MASTER",
+    "id": "106"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "107"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "108"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "109"
+  },
+  {
+    "descricao": "Nova especialidade",
+    "id": "110"
+  },
+  {
+    "descricao": "string",
+    "id": "111"
+  },
+  {
+    "descricao": "Nova especialidade - Emerson",
+    "id": "112"
+  },
+  {
+    "descricao": "Dermatologista",
+    "id": "113"
+  },
+  {
+    "descricao": "string",
+    "id": "114"
+  },
+  {
+    "descricao": "teste do teste 123",
+    "id": "115"
+  },
+  {
+    "descricao": "teste",
+    "id": "116"
+  },
+  {
+    "descricao": "string",
+    "id": "117"
+  },
+  {
+    "descricao": "string",
+    "id": "118"
+  },
+  {
+    "descricao": "string",
+    "id": "119"
+  },
+  {
+    "descricao": "string",
+    "id": "120"
+  },
+  {
+    "descricao": "descricao 121",
+    "id": "121"
+  },
+  {
+    "descricao": "Especialidade do Matheus Nunes 19/10",
+    "id": "123"
+  },
+  {
+    "descricao": "nova especialidade",
+    "id": "124"
+  },
+  {
+    "descricao": "nova especialidade 2",
+    "id": "128"
+  },
+  {
+    "descricao": "Especialidade RC",
+    "id": "129"
+  },
+  {
+    "descricao": "Teste de cadastro novo",
+    "id": "130"
+  },
+  {
+    "descricao": "bbb",
+    "id": "131"
+  },
+  {
+    "descricao": "descricao 132",
+    "id": "132"
+  },
+  {
+    "descricao": "nova",
+    "id": "133"
+  },
+  {
+    "descricao": "teste1911",
+    "id": "134"
+  },
+  {
+    "descricao": "descricao 135",
+    "id": "135"
+  },
+  {
+    "descricao": "descricao 136",
+    "id": "136"
+  },
+  {
+    "descricao": "descricao 137",
+    "id": "137"
+  },
+  {
+    "descricao": "teste de cadastro",
+    "id": "138"
+  },
+  {
+    "descricao": "jajaja",
+    "id": "139"
+  },
+  {
+    "descricao": "Outro teste | AA",
+    "id": "140"
+  },
+  {
+    "descricao": "string",
+    "id": "141"
+  },
+  {
+    "descricao": "teste",
+    "id": "142"
+  }
+]
